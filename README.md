@@ -145,6 +145,3 @@ You can test the API endpoints with **Postman** or **Thunder Client**, or by mak
 ## Reference Video
 This code was created while following the tutorial available at:  
 [React Node.js MERN Stack Tutorial](https://youtu.be/O3BUHwfHf84?si=xXgrEQRNoWAOISHn)
-
-## License
-This project is licensed under the **MIT License**. Feel free to use it for personal and commercial purposes.
